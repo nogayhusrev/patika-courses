@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.nogayhusrev</groupId>
-    <artifactId>patika-java-backend-path</artifactId>
+    <artifactId>patika-courses</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
@@ -13,6 +13,7 @@
         <module>java-backend-2</module>
         <module>java-backend-3</module>
     </modules>
+
 
     <properties>
         <maven.compiler.source>19</maven.compiler.source>
